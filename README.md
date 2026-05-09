@@ -12,3 +12,4 @@ terminal.c
 terminal.h
 Makefile
 linker.ld
+git commit -m "Initial NovaOS kernel"
